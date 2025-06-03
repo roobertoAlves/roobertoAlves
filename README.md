@@ -7,7 +7,7 @@
 
 I'm currently a Systems Analysis and Development student at IFSP, with a technical background in Digital Game Programming from ETEC. I am passionate about backend development, software engineering, and game development.
 
-I develop projects using **C#, Java, Python, PHP, HTML, CSS**, and **MySQL**. I also have experience in game development with engines like **Unity, Unreal Engine, GameMaker, Construct**, and **Roblox Studio**.
+I develop projects using **C#, Java, Python, PHP**, and **MySQL**. I also have experience in game development with engines like **Unity, Unreal Engine, GameMaker, Construct**, and **Roblox Studio**.
 
 My work involves backend systems, API development, database management, and digital product design. I’m always learning new technologies like **Artificial Intelligence, Augmented Reality**, and **Computer Graphics**, combining them with **Digital Marketing** strategies for project dissemination.
 
@@ -16,36 +16,39 @@ My work involves backend systems, API development, database management, and digi
 ## 🧰 Tech Stack
 
 <div align="center">
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://camo.githubusercontent.com/15166a15835f145259844be455ab5945594a70c48a3090aa83d193bd5e3e9bc5/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6769742f6769742d6f726967696e616c2e737667"/>
-  <img src="
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="50px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="50px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50px" />
   <br/>
-  <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Unreal-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GameMaker-000000?style=for-the-badge&logo=gamemaker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Roblox-000000?style=for-the-badge&logo=roblox&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Construct-FF4754?style=for-the-badge"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="50px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" width="50px"/>
+  <img src="https://img.shields.io/badge/GameMaker-000000?style=flat&logo=gamemaker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Roblox-000000?style=flat&logo=roblox&logoColor=white" />
+  <img src="https://img.shields.io/badge/Construct-FF4754?style=flat"/>
 </div>
 
 ---
 
 ## 📊 GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roobertoAlves)]
+<div align="center">
 
+<a href="https://github.com/roobertoAlves">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=roobertoAlves&show_icons=true&theme=tokyonight&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roobertoAlves&layout=compact&langs_count=8&theme=tokyonight"/>
+</a>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=roobertoAlves&show_icons=true&theme=tokyonight)
+</div>
 
 ---
 
 ## 🤝 Contact
 
 - 📧 jbetodamasceno@gmail.com  
-- 🔗 [LinkedIn](www.linkedin.com/in/joseroberto-damasceno)  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/joseroberto-damasceno)  
 - 🔗 [GitHub](https://github.com/roobertoAlves)
 
 ---
