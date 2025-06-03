@@ -7,7 +7,7 @@
 
 I'm currently a Systems Analysis and Development student at IFSP, with a technical background in Digital Game Programming from ETEC. I am passionate about backend development, software engineering, and game development.
 
-I develop projects using **C#, Java, Python, PHP**, and **MySQL**. I also have experience in game development with engines like **Unity, Unreal Engine, GameMaker, Construct**, and **Roblox Studio**.
+I develop projects using **C#, Java, Python, PHP, C**, and **MySQL**. I also have experience in game development with engines like **Unity** and **GameMaker**.
 
 My work involves backend systems, API development, database management, and digital product design. I’m always learning new technologies like **Artificial Intelligence, Augmented Reality**, and **Computer Graphics**, combining them with **Digital Marketing** strategies for project dissemination.
 
@@ -20,14 +20,15 @@ My work involves backend systems, API development, database management, and digi
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50px" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50px" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="50px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50px" />
+  <br/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50px" />
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white" />
   <br/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="50px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" width="50px"/>
   <img src="https://img.shields.io/badge/GameMaker-000000?style=flat&logo=gamemaker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Roblox-000000?style=flat&logo=roblox&logoColor=white" />
-  <img src="https://img.shields.io/badge/Construct-FF4754?style=flat"/>
 </div>
 
 ---
