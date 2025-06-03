@@ -1,4 +1,4 @@
-# Ignorar arquivos de metadados e assets do Unity e outros motores de jogos no cálculo de linguagens
+
 *.meta linguist-vendored
 *.mat linguist-vendored
 *.unity linguist-vendored
@@ -6,7 +6,6 @@
 *.asset linguist-vendored
 *.shader linguist-vendored
 
-# Ignorar arquivos de imagens e mídia
 *.psd linguist-vendored
 *.png linguist-vendored
 *.jpg linguist-vendored
@@ -16,14 +15,12 @@
 *.wav linguist-vendored
 *.ogg linguist-vendored
 
-# Ignorar arquivos de dados
 *.json linguist-vendored
 *.xml linguist-vendored
 *.yaml linguist-vendored
 *.yml linguist-vendored
 *.csv linguist-vendored
 
-# Ignorar outros arquivos comuns em projetos de jogos
 *.fbx linguist-vendored
 *.obj linguist-vendored
 *.blend linguist-vendored
