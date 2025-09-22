@@ -45,7 +45,7 @@ My work involves backend systems, API development, database management, and digi
 
 <a href="https://github.com/roobertoAlves">
 	<img height="180em" src="https://github-readme-stats.vercel.app/api?username=roobertoAlves&show_icons=true&theme=tokyonight&count_private=true"/>
-	<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roobertoAlves&layout=compact&langs_count=8&theme=tokyonight&hide=tex,css,html"/>
+	<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roobertoAlves&layout=compact&langs_count=8&theme=tokyonight&hide=tex,mathematica,shaderlab,hlsl,antlr"/>
 </a>
 
 </div>
