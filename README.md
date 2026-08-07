@@ -2,7 +2,7 @@
 <h3 align="center">Fullstack Developer | APIs & Integrations | Game Developer</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/joseroberto-damasceno">
+  <a href="[https://www.linkedin.com/in/joseroberto-damasceno"](https://www.linkedin.com/in/beto-damasceno/)>
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:jbetodamasceno@gmail.com">
