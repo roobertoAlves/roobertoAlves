@@ -1,95 +1,122 @@
-<h1 align="center">Hi, I'm Roberto 👋</h1>
-<h3 align="center">Fullstack Developer | APIs & Integrations | Game Developer</h3>
+<div align="center">
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/joseroberto-damasceno">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:jbetodamasceno@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" />
-  </a>
-  <img src="https://img.shields.io/badge/São_Paulo-Brazil-009c3b?style=flat&logo=googlemaps&logoColor=white" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:22D3EE&height=150&section=header&text=Roberto%20Alves&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=Fullstack%20Developer%20%7C%20APIs%20%26%20Systems%20%7C%20Game%20Dev&descAlignY=62&descSize=15&fontAlignY=36" width="85%"/>
+
+<br/>
+
+<a href="https://www.linkedin.com/in/beto-damasceno/">
+  <img src="https://img.shields.io/badge/LinkedIn-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:jbetodamasceno@gmail.com">
+  <img src="https://img.shields.io/badge/Email-22D3EE?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://github.com/roobertoAlves">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<br/><br/>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1200&color=7C3AED&center=true&vCenter=true&width=650&lines=Building+RESTful+APIs+%26+integrations;Systems+Analysis+%26+Development+%40+IFSP;Interested+in+QA+%2B+Data+Analysis;Always+learning+something+new+%F0%9F%9A%80" />
+
+</div>
 
 ---
 
 ### 🧠 About Me
 
-Systems Analysis and Development student at IFSP (expected graduation Jul/2027), with hands-on fintech experience gained during a Software Development internship at **Entrepay Instituição de Pagamento S.A.** (Aug/2025 – Apr/2026).
+I am **Roberto** — Systems Analysis and Development student at IFSP (expected graduation July 2027), with hands-on fintech software development experience from my internship at **Entrepay** (Aug 2025 – Apr 2026). During my internship, I worked with **RESTful APIs**, system integrations, **ETL pipelines**, and database modeling within agile squads.
 
-Day to day, I work on building and maintaining **RESTful APIs**, integrating backend and frontend systems, supporting **ETL pipelines**, and structuring databases, all within agile squads (Scrum/Kanban). Before that, I completed a Technical High School diploma in **Digital Game Programming** at ETEC, which gave me a solid foundation in logic, C#, and multiplatform development — a foundation I still apply to both web products and games today.
+Prior to that, I completed a Technical High School degree in **Digital Game Programming** at ETEC, where I created my capstone project, _Damnati_, a 3D Soulslike game built in Unity. This game development and logical foundation gives me a unique perspective: I view systems through both solid architecture and user experience.
 
-I'm always looking to **learn more** — I like picking up new tools, languages, and approaches rather than sticking to what I already know. I'm also genuinely interested in **QA and data analysis**: even when it's not my main role, I volunteer to get involved in testing and understanding the data behind a system, because I think it makes the code I write better.
-
-- 🎓 Systems Analysis and Development @ IFSP · Technical Diploma in Digital Game Programming @ ETEC
-- 🌱 Currently exploring AI, Augmented Reality, and QA/data analysis practices
-- 🔍 Interested in QA and data analysis, beyond my core development role
-- 🌍 Portuguese (native) · English (intermediate) · Spanish (basic)
+- 🌱 **Continuous Learner:** I love stepping out of my comfort zone, picking up new stacks, tools, and innovative ways to solve complex problems.
+- 🔍 **QA & Data Analysis Focus:** I actively engage in testing, analyzing underlying data, and writing Python automations and dashboards to deliver resilient, high-quality code.
 
 ---
 
-### 🧰 Stack
+### 🧰 Tech Stack
 
-**Frontend**
-<div align="left">
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React" width="40px" />
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title="TypeScript" width="40px" />
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" width="40px" />
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5" width="40px" />
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3" width="40px" />
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" title="Tailwind CSS" width="40px" />
-</div>
+<p align="center"><b>Languages & Frontend</b></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,html,css,bootstrap,vite&theme=dark" />
+</p>
 
-**Backend & APIs**
-<div align="left">
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="Node.js" width="40px" />
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" title="NestJS" width="40px" />
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java" width="40px" />
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" width="40px" />
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" title="PHP" width="40px" />
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL" width="40px" />
-	<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" title="Postman" height="28px" />
-</div>
+<p align="center"><b>Backend & APIs</b></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,cs,dotnet,java,php,c,py&theme=dark" />
+</p>
 
-**Tools & Infrastructure**
-<div align="left">
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" width="40px" />
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title="GitHub" width="40px" />
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="VS Code" width="40px" />
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" title="Android Studio" width="40px" />
-</div>
+<p align="center"><b>Data & Cloud</b></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,aws,docker&theme=dark" />
+</p>
 
-**Game Development & Other**
-<div align="left">
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" title="Unity" width="40px" />
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" title="C#" width="40px" />
-	<img src="https://img.shields.io/badge/Unreal_Engine-0E1128?style=flat&logo=unrealengine&logoColor=white" height="28px" />
-	<img src="https://img.shields.io/badge/GameMaker-000000?style=flat&logo=gamemaker&logoColor=white" height="28px" />
-	<img src="https://img.shields.io/badge/Roblox_Studio-000000?style=flat&logo=roblox&logoColor=white" height="28px" />
-</div>
+<p align="center"><b>Mobile & Tools</b></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=reactnative,git,github,githubactions,vscode,idea,postman,figma,linux,windows&theme=dark" />
+</p>
+
+<p align="center"><b>Game Development</b></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=unity,cs&theme=dark" />
+</p>
 
 ---
 
 ### 📌 Featured Projects
 
-| Project | Description | Stack |
-|---|---|---|
-| [**Damnati**](https://github.com/roobertoAlves/Damnati) | Technical High School capstone project (Digital Game Programming): a 3D medieval Soulslike-style game built in Unity Engine | C#, Unity |
-| [**4TH_Planet**](https://github.com/roobertoAlves/4TH_Planet) | Interdisciplinary 2D pixel-art platformer project, inspired by the combat mechanics of *Celeste* and *Hollow Knight* | C#, Unity |
-| [**Sistema-de-Ordem-e-Servico**](https://github.com/roobertoAlves/Sistema-de-Ordem-e-Servico) | Object-oriented Service Order system built with the MVC pattern, for managing customer tickets and technical follow-up | PHP |
-| [**POO-Java-IFSP**](https://github.com/roobertoAlves/POO-Java-IFSP) | Object-Oriented Programming exercises and projects developed during coursework at IFSP | Java |
-| [**Desenvolvimento-Web-freeCodeCamp**](https://github.com/roobertoAlves/Desenvolvimento-Web-freeCodeCamp) | Certification projects for Responsive Web Design (HTML, CSS, Flexbox, Grid, accessibility) | HTML, CSS |
-| [**movie_lib**](https://github.com/roobertoAlves/movie_lib) | Movie catalog / library project | JavaScript |
+<div align="center">
+
+| Project                                                                                                   | Description                                                                                               | Stack      |
+| --------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------- | ---------- |
+| [**Sistema-de-Ordem-e-Servico**](https://github.com/roobertoAlves/Sistema-de-Ordem-e-Servico)             | Object-Oriented Service Order Management System built with MVC architecture for tracking support requests | PHP        |
+| [**POO-Java-IFSP**](https://github.com/roobertoAlves/POO-Java-IFSP)                                       | Object-Oriented Programming projects and exercises developed during coursework at IFSP                    | Java       |
+| [**Desenvolvimento-Web-freeCodeCamp**](https://github.com/roobertoAlves/Desenvolvimento-Web-freeCodeCamp) | Responsive Web Design certification projects using HTML, CSS, Flexbox, Grid, and Accessibility practices  | HTML, CSS  |
+| [**movie_lib**](https://github.com/roobertoAlves/movie_lib)                                               | Movie library application consuming external API data dynamically via JavaScript                          | JavaScript |
+
+</div>
+
+<details>
+<summary>🎮 See my game development projects</summary>
+<br/>
+
+| Project                                                       | Description                                                                              | Stack     |
+| ------------------------------------------------------------- | ---------------------------------------------------------------------------------------- | --------- |
+| [**Damnati**](https://github.com/roobertoAlves/Damnati)       | High School Technical Capstone Project — 3D medieval Soulslike game built in Unity       | C#, Unity |
+| [**4TH_Planet**](https://github.com/roobertoAlves/4TH_Planet) | 2D pixel art platformer with combat mechanics, inspired by _Celeste_ and _Hollow Knight_ | C#, Unity |
+
+</details>
 
 ---
 
 ### 📊 GitHub Stats
 
 <div align="center">
-<a href="https://github.com/roobertoAlves">
-	<img height="180em" src="https://github-readme-stats.vercel.app/api?username=roobertoAlves&show_icons=true&theme=tokyonight&count_private=true"/>
-	<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roobertoAlves&layout=compact&langs_count=8&theme=tokyonight&hide=tex,mathematica,shaderlab,hlsl,antlr,batchfile,Hack"/>
-</a>
+  <img height="150" src="https://github-stats-extended.vercel.app/api?username=roobertoAlves&show_icons=true&theme=dracula&hide_border=true" />
+  <img height="150" src="https://github-stats-extended.vercel.app/api/top-langs/?username=roobertoAlves&layout=compact&theme=dracula&hide_border=true&langs_count=8&hide=Mathematica" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img width="80%" src="https://streak-stats.demolab.com/?user=roobertoAlves&theme=dracula&hide_border=true" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img width="80%" src="https://github-readme-activity-graph.vercel.app/graph?username=roobertoAlves&theme=dracula&hide_border=true" />
+</div>
+
+---
+
+### Contribution Graph
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/roobertoAlves/roobertoAlves/output/galaga-contribution-graph-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/roobertoAlves/roobertoAlves/output/galaga-contribution-graph.svg" />
+    <img alt="Galaga contribution graph" src="https://raw.githubusercontent.com/roobertoAlves/roobertoAlves/output/galaga-contribution-graph.svg" width="80%" />
+  </picture>
 </div>
 
 ---
@@ -97,18 +124,23 @@ I'm always looking to **learn more** — I like picking up new tools, languages,
 ### 🎓 Certifications
 
 - **Responsive Web Design** — freeCodeCamp (2024)
-- **Introduction to Digital Technologies** — Cetec Capacitações / Ocubo (2023): AR/VR, IoT, Big Data, AI and Machine Learning
+- **Introduction to Digital Technologies** — Cetec Capacitações / Ocubo (2023): AR/VR, IoT, Big Data, AI & Machine Learning
 
 ---
 
-### 🤝 Contact
+### 🤝 Let's Connect
 
-<p align="left">
-  <a href="mailto:jbetodamasceno@gmail.com">📧 jbetodamasceno@gmail.com</a><br/>
-  <a href="https://www.linkedin.com/in/joseroberto-damasceno">🔗 LinkedIn</a><br/>
-  <a href="https://github.com/roobertoAlves">🔗 GitHub</a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/beto-damasceno/"><img src="https://img.shields.io/badge/LinkedIn-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:jbetodamasceno@gmail.com"><img src="https://img.shields.io/badge/Gmail-22D3EE?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
----
+<div align="center">
 
-<p align="center"><i>⚡ Always learning and looking for the next thing to pick up — delivering creative, efficient solutions through code, design, and technology. 🚀</i></p>
+<img src="https://raw.githubusercontent.com/roobertoAlves/roobertoAlves/main/src/noir.gif" width="280"/>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:ffffff&height=100&section=footer" width="85%"/>
+
+</div>
