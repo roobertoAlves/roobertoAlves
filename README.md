@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:22D3EE&height=150&section=header&text=Roberto%20Alves&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=Fullstack%20Developer%20%7C%20APIs%20%26%20Systems%20%7C%20Game%20Dev&descAlignY=62&descSize=15&fontAlignY=36" width="85%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:22D3EE&height=150&section=header&text=Roberto%20Alves&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=Fullstack%20Developer%20%7C%20APIs%2C%20Systems%20and%20Game%20Dev&descAlignY=62&descSize=15&fontAlignY=36" width="85%"/>
 
 <br/>
 
@@ -109,7 +109,7 @@ Prior to that, I completed a Technical High School degree in **Digital Game Prog
 
 ---
 
-### Contribution Graph
+### 🚀 Galaga Contribution Graph
 
 <div align="center">
   <picture>
