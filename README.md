@@ -109,8 +109,6 @@ Prior to that, I completed a Technical High School degree in **Digital Game Prog
 
 ---
 
-### 🚀 Galaga Contribution Graph
-
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/roobertoAlves/roobertoAlves/output/galaga-contribution-graph-dark.svg" />
